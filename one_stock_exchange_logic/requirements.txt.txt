@@ -1,2 +1,0 @@
-shimmy>=2.0
-stable_baselines3
